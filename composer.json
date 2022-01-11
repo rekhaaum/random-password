@@ -1,0 +1,13 @@
+{
+    "name": "rekhaaum/random-password",
+    "description": "Library for generating strong password",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rekha",
+            "email": "rekha@aum.bz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
