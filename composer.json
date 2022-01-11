@@ -8,6 +8,8 @@
             "email": "rekha@aum.bz"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
