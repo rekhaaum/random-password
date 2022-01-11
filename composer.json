@@ -1,15 +1,20 @@
 {
   "name": "rekhaauz/random-password",
+  "description": "Generate random password of a given length",
   "type": "library",
-  "description": "Your package description goes here",
-  "keywords": ["relevant","tags","go","here"],
-  "homepage": "https://yourcompany.com",
+  "require": {
+    "php": ">=5.1.3",
+    "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.0.*"
+  },
+  "license": "proprietary",
   "authors": [
-      {
-          "name": "Jordi Boggiano",
-          "email": "j.boggiano@seld.be",
-          "homepage": "http://seld.be",
-          "role": "Developer"
-      }
+    {
+      "name": "REkha Parmar",
+      "email": "rekha@gmail.com"
+    }
   ],
+  "minimum-stability": "dev",
+  "require-dev": {
+    "rekhaauz/random-password": "1.0.0"
+  }
 }
